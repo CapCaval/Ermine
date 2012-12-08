@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="01_src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="./02_lib/jogl_1.1.1a/lib/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="./02_lib/jogl_1.1.1a/lib/jogl.jar"/>
+	<classpathentry kind="lib" path="./02_lib/junit/junit-4.8.2.jar"/>
+	<classpathentry kind="output" path="20_bin"/>
+</classpath>
